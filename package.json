@@ -1,0 +1,13 @@
+{
+  "name": "discordia-bot",
+  "version": "1.0.0",
+  "description": "The Discord bot we deserve.",
+  "main": "index.js",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "echo \"Error: no start specified\" && exit 1"
+  },
+  "author": "Guy Royse <guy@guyroyse.com>",
+  "license": "GPL-3.0"
+}
