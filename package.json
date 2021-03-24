@@ -2,7 +2,6 @@
   "name": "discordia-bot",
   "version": "1.0.0",
   "description": "The Discord bot we deserve.",
-  "main": "index.js",
   "type": "module",
   "private": true,
   "scripts": {
