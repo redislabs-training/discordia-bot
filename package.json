@@ -5,8 +5,13 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "start": "echo \"Error: no start specified\" && exit 1"
+    "start": "node --require dotenv/config bot.js"
   },
   "author": "Guy Royse <guy@guyroyse.com>",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "ioredis": "^4.24.4"
+  }
 }
